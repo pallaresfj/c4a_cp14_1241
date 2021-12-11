@@ -1,0 +1,37 @@
+{
+  "name": "c4a_cp14_1241",
+  "version": "1.0.0",
+  "description": "Componente Practico 14 NRC 1241",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadolakatt/c4a_cp14_1241.git"
+  },
+  "keywords": [
+    "componente",
+    "practico",
+    "14",
+    "misiontic",
+    "2022"
+  ],
+  "author": "MisionTIC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadolakatt/c4a_cp14_1241/issues"
+  },
+  "homepage": "https://github.com/kadolakatt/c4a_cp14_1241#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
